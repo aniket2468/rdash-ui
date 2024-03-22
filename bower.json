@@ -30,5 +30,7 @@
         "!dist/fonts",
         "!less/"
     ],
-    "dependencies": {}
+    "dependencies": {
+        "rdash-ui": "*"
+    }
 }
